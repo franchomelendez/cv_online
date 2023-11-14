@@ -151,7 +151,11 @@
       },
       {
         "organization": {
-          "name": "CeTA - Audiovisual Technology Center"
+          "name": "CeTA - Audiovisual Technology Center",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/14/113c0ab9-c0e8-42dd-85fc-6225d8209387_download.png",
+            "alt": "download.png"
+          }
         },
         "roles": [
           {
