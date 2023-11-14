@@ -130,7 +130,11 @@
       },
       {
         "organization": {
-          "name": "University of Wroclaw"
+          "name": "University of Wroclaw",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/14/fd222348-472f-4eaf-8f7b-bd4510ccc3fe_logo_uwr-300x139.png",
+            "alt": "logo_UWr-300x139.png"
+          }
         },
         "roles": [
           {
