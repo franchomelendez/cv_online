@@ -1,0 +1,418 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Francho",
+      "surnames": "Meléndez",
+      "title": "Applied Researcher and Software Engineer in Computer Vision and Image Processing.",
+      "description": "I am a Computer Scientist/Engineer with special interest in Image Processing, Computer Vision, and Computer Graphics. I enjoy the challenging aspect of research and to find practical solutions to problems with real application. I look to work with creative people in places where I can help to produce outstanding Computer Graphics.\n",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/14/e25dc60f-0c20-490d-bca7-1a85217f1074_linkedin-photo-5009.linkedin-photo-5009",
+        "alt": "23/11/14/e25dc60f-0c20-490d-bca7-1a85217f1074_linkedin-photo-5009.linkedin-photo-5009"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJkY5hXt0UWQ0RqImEFfET30k)",
+        "country": "España",
+        "region": "Aragón",
+        "municipality": "Zaragoza"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/franchomelendez/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/franchomelendez"
+      },
+      {
+        "type": "other",
+        "URL": "http://franchomelendez.com/",
+        "description": "Personal page"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Fenomatch",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/14/d9146dd9-564f-472f-8fea-d7aa4fda1d5f_linkedin-photo-5009.linkedin-photo-5009",
+            "alt": "23/11/14/d9146dd9-564f-472f-8fea-d7aa4fda1d5f_linkedin-photo-5009.linkedin-photo-5009"
+          }
+        },
+        "roles": [
+          {
+            "name": "Lead Researcher in Computer Vision and AI",
+            "startDate": "2020-07-01",
+            "finishDate": "2022-02-28",
+            "challenges": [
+              {
+                "description": "Skills: Deep Learning"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AI Retailer Systems (AIRS)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/14/2b3aac2f-e8e6-417c-94b9-8245e0eff7ee_linkedin-photo-5009.linkedin-photo-5009",
+            "alt": "23/11/14/2b3aac2f-e8e6-417c-94b9-8245e0eff7ee_linkedin-photo-5009.linkedin-photo-5009"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Computer Vision Engineer R&D",
+            "startDate": "2020-05-01",
+            "challenges": [
+              {
+                "description": "Skills: Agile Methodologies · Deep Learning"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance, self-employed"
+        },
+        "roles": [
+          {
+            "name": "Research Engineer Computer Vision and Image Processing",
+            "startDate": "2019-04-01",
+            "challenges": [
+              {
+                "description": "Working remotely for U.S. companies on MVPs and prototypes in the field of 3D scanning of interiors. R&D in HDR capture, IMU path estimation, Lidar, and data visualization."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Betta Pixels",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/14/bc94db73-aaf6-482b-ae94-c9c2fba850f3_linkedin-photo-5009.linkedin-photo-5009",
+            "alt": "23/11/14/bc94db73-aaf6-482b-ae94-c9c2fba850f3_linkedin-photo-5009.linkedin-photo-5009"
+          }
+        },
+        "roles": [
+          {
+            "name": "Founder",
+            "startDate": "2019-04-01",
+            "challenges": [
+              {
+                "description": "Collaborating with teams in projects in the fields of 3D graphics, computer vision, photogrammetry, and VR. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Wroclaw ACM SIGGRAPH Chapter"
+        },
+        "roles": [
+          {
+            "name": "Chair",
+            "startDate": "2016-01-01",
+            "finishDate": "2018-05-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "University of Wroclaw"
+        },
+        "roles": [
+          {
+            "name": "Assistant Professor",
+            "startDate": "2015-09-01",
+            "finishDate": "2021-05-31",
+            "challenges": [
+              {
+                "description": "Teaching Computational Photography, Computer Vision and Photogrammetry, and Digitization Technologies"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CeTA - Audiovisual Technology Center"
+        },
+        "roles": [
+          {
+            "name": "R&D Graphics Engineer",
+            "startDate": "2013-05-01",
+            "finishDate": "2015-08-31",
+            "challenges": [
+              {
+                "description": "This position develops software systems and techniques that advance the state of the art in feature film visual effects. The duties are a mix of building new systems, maintaining current systems, and supporting artists in production.\n\n - Primarily responsible for the research and development of innovative algorithms, software, systems, and techniques.\n\n - Works directly with artists and production crews to identify technology solutions and define workflows and interfaces.\n\n - Serves as a knowledge resource for software and/or systems as they are used in production at CeTA.\n\n - Contributes to discussions surrounding future applications and/or systems.\n\n - Write Project Proposals and establish collaborations with other institutions and individuals.\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelancer"
+        },
+        "roles": [
+          {
+            "name": "R&D Engineer Computer Graphics and Image Processing",
+            "startDate": "2012-11-01",
+            "finishDate": "2013-03-31",
+            "challenges": [
+              {
+                "description": "Collaborated with the Universidad de Zaragoza and Loughborough University in several\nresearch projects."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Loughborough University",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/14/6ff09eae-c7c6-4af7-8aaf-7a5f4102e825_linkedin-photo-5009.linkedin-photo-5009",
+            "alt": "23/11/14/6ff09eae-c7c6-4af7-8aaf-7a5f4102e825_linkedin-photo-5009.linkedin-photo-5009"
+          }
+        },
+        "roles": [
+          {
+            "name": "Visiting Researcher",
+            "startDate": "2012-10-01",
+            "finishDate": "2013-03-31",
+            "challenges": [
+              {
+                "description": "Developing software for innovative movie production."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Loughborough University",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/14/65052748-aaff-4208-9205-7cdf70932ed3_linkedin-photo-5009.linkedin-photo-5009",
+            "alt": "23/11/14/65052748-aaff-4208-9205-7cdf70932ed3_linkedin-photo-5009.linkedin-photo-5009"
+          }
+        },
+        "roles": [
+          {
+            "name": "Co-Investigator",
+            "startDate": "2011-08-01",
+            "finishDate": "2012-10-31",
+            "challenges": [
+              {
+                "description": "Working on a UK EPSRC KTA project funded in collaboration with The Foundry."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ACM SIGGRAPH",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/14/6dc9687c-7c67-47a7-b868-904975adb7b9_linkedin-photo-5009.linkedin-photo-5009",
+            "alt": "23/11/14/6dc9687c-7c67-47a7-b868-904975adb7b9_linkedin-photo-5009.linkedin-photo-5009"
+          }
+        },
+        "roles": [
+          {
+            "name": "Committee Member - International Resources 2011",
+            "startDate": "2011-01-01",
+            "finishDate": "2015-07-31",
+            "challenges": [
+              {
+                "description": "August 2009 – Present (1 year 10 months)\n\nCollaboration in annual services provided by ACM SIGGRAPH International Resources, including: \n-- Production of multilingual podcasts and guided tours for the annual conference gallery experiences."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Pismo Software",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/14/cd7a3905-e67f-406a-9f7b-0f220c811a6d_linkedin-photo-5009.linkedin-photo-5009",
+            "alt": "23/11/14/cd7a3905-e67f-406a-9f7b-0f220c811a6d_linkedin-photo-5009.linkedin-photo-5009"
+          }
+        },
+        "roles": [
+          {
+            "name": "Research and Development Engineer",
+            "startDate": "2010-04-01",
+            "finishDate": "2011-07-31",
+            "challenges": [
+              {
+                "description": "Research and development and consulting of image processing algorithms with application in Computer Graphics and Computer Vision. Consulting for a major video games company."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Telefonica I+D",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/14/d23f1cef-c67c-4735-9acb-000fd4443bf2_linkedin-photo-5009.linkedin-photo-5009",
+            "alt": "23/11/14/d23f1cef-c67c-4735-9acb-000fd4443bf2_linkedin-photo-5009.linkedin-photo-5009"
+          }
+        },
+        "roles": [
+          {
+            "name": "Intern Computer Engineer",
+            "startDate": "2005-10-01",
+            "finishDate": "2006-08-31",
+            "challenges": [
+              {
+                "description": "I worked during six months in the domotics AMIGO Project, funded by the European Framework Programme. I implemented web services for playing multimedia in a distributed environments in Java. Telefónica R&D is the largest private R&D centre in Europe in the ICT sector in terms of participation in European research projects."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "First Commercial Product"
+        },
+        "type": "launch",
+        "publishingDate": "2021-09-01"
+      },
+      {
+        "details": {
+          "name": "Academy Awards Nomination"
+        },
+        "type": "achievement",
+        "publishingDate": "2017-12-01"
+      },
+      {
+        "details": {
+          "name": "PhD"
+        },
+        "type": "achievement",
+        "publishingDate": "2010-02-01",
+        "tags": [
+          "Studies"
+        ]
+      },
+      {
+        "details": {
+          "name": "SIGGRAPH Publication"
+        },
+        "type": "post",
+        "publishingDate": "2008-08-01"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "PL",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ph.D. In Computer Science ",
+        "startDate": "2010-05-01",
+        "institution": {
+          "name": "The University of Manchester "
+        },
+        "finishDate": "2010-05-01"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/franchomelendez/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://twitter.com/franchomelendez",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "franchomelendez@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "615924493",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Project Manager & Delivery Manager",
+        "Research Developer"
+      ]
+    },
+    "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "C++",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "My ideal job... R&D Engineer in Industrial Light and Magic or Pixar... but from Zaragoza. Alternatively, helping startups/R&D teams in companies in the audiovisual world or using Graphics/VR/AR/MR in their solutions, to develop their solutions. I am most interested in the concept and prototyping stages."
+  }
+}
